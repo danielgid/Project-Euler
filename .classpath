@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="eruler_53/src"/>
+	<classpathentry kind="src" path="eruler_96/src"/>
+	<classpathentry kind="src" path="euler_35/src"/>
+	<classpathentry kind="src" path="euler_39/src"/>
+	<classpathentry kind="src" path="euler_40/src"/>
+	<classpathentry kind="src" path="euler_41/src"/>
+	<classpathentry kind="src" path="euler_45/src"/>
+	<classpathentry kind="src" path="euler_46/src"/>
+	<classpathentry kind="src" path="euler_52/src"/>
+	<classpathentry kind="src" path="euler_54/src"/>
+	<classpathentry kind="src" path="euler_55/src"/>
+	<classpathentry kind="src" path="euler_69/src"/>
+	<classpathentry kind="src" path="euler_71/src"/>
+	<classpathentry kind="src" path="euler_73/src"/>
+	<classpathentry kind="src" path="euler_76/src"/>
+	<classpathentry kind="src" path="euler_82/src"/>
+	<classpathentry kind="src" path="euler_97/src"/>
+	<classpathentry kind="output" path="eruler_53/bin"/>
+</classpath>
